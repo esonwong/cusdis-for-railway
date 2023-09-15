@@ -10,6 +10,7 @@ module.exports = {
           },
         ],
       }
+     ]
   },
   rewrites() {
     return [
